@@ -1,3 +1,3 @@
 # Huffman Coding Algorithm
-File compressor
+File compressor\n
 Check the PDF for more info
