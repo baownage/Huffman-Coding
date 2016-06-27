@@ -1,3 +1,2 @@
-# hello-world
-testing lel
-Tutorial on Git
+# Huffman Coding Algorithm
+File compressor
